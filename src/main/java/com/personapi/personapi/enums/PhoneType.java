@@ -8,7 +8,7 @@ import lombok.Getter;
 public enum PhoneType {
 
     HOME("Home"),
-    MOBILE("mobile"),
+    MOBILE("Mobile"),
     COMMERCIAL("Commercial");
 
     private final String description;
